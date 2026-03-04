@@ -1,4 +1,5 @@
-<h1>Forecasting the quality of cloud services using LSTM networks: ML modeling process and experiment</h1></div>
+<h1>LSTM-Based Forecasting of Cloud Service Quality:
+A Modeling Process and Experimental Study/h1></div>
 
 * * *
 This repository manages the files used in the experiments of the paper:
