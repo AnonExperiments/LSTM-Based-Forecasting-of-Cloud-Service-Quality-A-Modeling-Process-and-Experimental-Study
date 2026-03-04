@@ -2,7 +2,7 @@
 
 * * *
 This repository manages the files used in the experiments of the paper:
-_**Forecasting the quality of cloud services using LSTM networks: ML modeling process and experiment**_
+_**LSTM-Based Forecasting of Cloud Service Quality: A Modeling Process and Experimental Study**_
 * * *
 
 
